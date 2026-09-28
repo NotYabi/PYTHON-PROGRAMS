@@ -1,5 +1,3 @@
-# PYTHON-PROGRAMS
-Assignments
 Hi, I'm Crystal Thagunna 👋
 
 🎓 First-Year Student at MIT World Peace University (MIT-WPU), Pune
@@ -48,7 +46,7 @@ Prepare for internships and future opportunities
 
 📫 Connect With Me
 
-GitHub: [Not_Yabi]
+GitHub: [NotYabi]
 
 
 Email: [crystalthagunna75@gmail.com]
